@@ -8,7 +8,7 @@ decRiPPter2 is a complete rework of the original decRiPPter software by [Klooste
 
 # Content
 
-- [mite_data](https://github.com/decrippter2/decrippter2_ml): contains data and machine learning functionality used by decRiPPter2
+- [decrippter2_ml](https://github.com/decrippter2/decrippter2_ml): contains data and machine learning functionality used by decRiPPter2
 
 # Contributing
 
